@@ -2,6 +2,9 @@
 
 A premium desktop application for automatically cutting silent sections from videos using Auto-Editor or FFmpeg.
 
+> [!TIP]
+> **Evaluating this project?** Read the [Engineering Overview](ENGINEERING_OVERVIEW.md) for the Electron architecture, FFmpeg command-length solution, typed IPC boundary, output verification, and guided code tour.
+
 ## Features
 
 - **Drag-drop or browse** to select video files
