@@ -1,5 +1,7 @@
 # RUN_STATE.md — Round 3
 
+> **Historical checkpoint:** This file preserves the pre-publication Round 3 working state. It is not the current Git status of the public repository. See [ENGINEERING_OVERVIEW.md](ENGINEERING_OVERVIEW.md) for the current review guide.
+
 ## Current Branch
 master
 
